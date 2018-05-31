@@ -1,3 +1,10 @@
+//////////////////////////////////////
+// --------------PONG-------------- //
+//   PONG GAME BUILD EXAMPLE IN JS  //
+//          Michael Amar            //
+//      mik.amar91@gmail.com        //
+//////////////////////////////////////
+
 function gameOn()
 {
 // The canvas defenition
